@@ -13,3 +13,5 @@ et WindowListener ;
 * les objets graphiques JButton et JMenu ;
 * les classes internes, internes locales et anonymes ;
 * la communication entre différents projets.
+
+Remarque : Le dessin de Camion n'est pas géré par ce code source.
